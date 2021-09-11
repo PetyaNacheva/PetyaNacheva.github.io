@@ -22,7 +22,7 @@
 - June 2021 **Data Structures Fundamentasl(Java)**, SoftUni
 - June 2021 **Java OOP**, SoftUni
 - May 2021 **Java Advanced**, SoftUni
-- Jan 2021 **[Programming Fundamentals with Java](![Programming Fundamentals with Java - January 2021 - Certificate](https://user-images.githubusercontent.com/79047302/132958190-778cf76f-86f8-4241-8438-b071b0664d1d.jpeg)), SoftUni**
+- Jan 2021 **[Programming Fundamentals with Java] https://raw.githubusercontent.com/PetyaNacheva/PetyaNacheva.github.io/main/images/Programming%20Fundamentals%20with%20Java%20-%20January%202021%20-%20Certificate.jpeg, SoftUni**
 
 ## SKILLS 
 
