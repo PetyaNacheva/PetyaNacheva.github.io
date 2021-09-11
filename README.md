@@ -2,6 +2,17 @@
 #Project 1: Java compiler Project Overview
 *Creating a tool that.....
 
+
+COMPUTER SKILLS
+  •	Languages : Java, SQL, JavaScript, Data structures
+  •	Database : Oracle 9i/8i, Microsoft SQL Server, MySQL
+  •	Web Libraries: CSS3, HTML5, UnderscoreJS, NodeJS, MongoDB
+  •	Platforms: Microsoft Windows
+  •	Servers: NodeJs
+  •	Web Services: XML, SOAP
+  •	Tools: InteliJ.
+  •	Build Tools: Maven
+
 You can use the [editor on GitHub](https://github.com/PetyaNacheva/PetyaNacheva.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
