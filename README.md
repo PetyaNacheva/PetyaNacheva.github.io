@@ -1,5 +1,3 @@
-# PETYA SIMEONOVA NACHEVA
-
 ### Intern Java Developer
 - Burgas, Bukgaria
 - Email: pepisn@abv.bg
@@ -21,6 +19,10 @@
 
 ## CERTIFICATION
 
+- June 2021 **Data Structures Fundamentasl(Java)**, SoftUni
+- June 2021 **Java OOP**, SoftUni
+- May 2021 **Java Advanced**, SoftUni
+- Jan 2021 **Programming Fundamentals with Java**, SoftUni
 
 ## SKILLS 
 
@@ -32,13 +34,6 @@
 - Bulgarian - Native proficiency
 - English - Limited working proficiency
 
-
-## HONORS
-
-- June 2021 **Data Structures Fundamentasl(Java)**, SoftUni
-- June 2021 **Java OOP**, SoftUni
-- May 2021 **Java Advanced**, SoftUni
-- Jan 2021 **Programming Fundamentals with Java**, SoftUni
 
 #Project 1: Java compiler Project Overview
 *Creating a tool that.....
