@@ -4,7 +4,7 @@
 
 ## OBJECTIVE
 
-**Senior Software Engineer** - Where my experience of programming more than 15 years with Web programming languages and knowledge of computer science fundamentals will result in increased efficiency. I am self-motivated person and take pride in delivering high quality work. As a team player, my creativity will stimulate co-workers.
+//**Senior Software Engineer** - Where my experience of programming more than 15 years with Web programming languages and knowledge of computer science fundamentals will result in increased efficiency. I am self-motivated person and take pride in delivering high quality work. As a team player, my creativity will stimulate co-workers.
 
 ## EXPERIENCE
 
