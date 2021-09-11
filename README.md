@@ -1,4 +1,45 @@
-## Welcome to GitHub Pages
+# PETYA SIMEONOVA NACHEVA
+
+### Intern Java Developer
+- Burgas, Bukgaria
+- Email: pepisn@abv.bg
+
+## OBJECTIVE
+
+**Senior Software Engineer** - Where my experience of programming more than 15 years with Web programming languages and knowledge of computer science fundamentals will result in increased efficiency. I am self-motivated person and take pride in delivering high quality work. As a team player, my creativity will stimulate co-workers.
+
+## EXPERIENCE
+
+## EDUCATION
+
+- **[Software University](https://softuni.bg), Sofia, Bulgaria**
+  - **Java Web Developer**
+  - Sep 2020 - till now
+- **[University of Economics - Varna](https://ue-varna.bg/en/), Varna, Bulgaria**
+  - **Bachelor’s degree in Tourism**
+  - Sep 2009 - June 2013
+
+## CERTIFICATION
+
+
+## SKILLS 
+
+- **Methodology** – Object-Oriented Programming (OOP)
+- **Programming Language** – Java, SQL for Oracle, HTML5, CSS 3, JavaScript, 
+
+## LANGUAGES
+
+- Bulgarian - Native proficiency
+- English - Limited working proficiency
+
+
+## HONORS
+
+- June 2021 **Data Structures Fundamentasl(Java)**, SoftUni
+- June 2021 **Java OOP**, SoftUni
+- May 2021 **Java Advanced**, SoftUni
+- Jan 2021 **Programming Fundamentals with Java**, SoftUni
+
 #Project 1: Java compiler Project Overview
 *Creating a tool that.....
 
