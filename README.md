@@ -16,7 +16,7 @@
 
 ## CERTIFICATION
 - September 2021 **[JS Advanced](https://softuni.bg/certificates/details/114711/f4ba4122)**, SoftUni
-- June 2021 **[Data Structures Fundamentasl(Java)](https://raw.githubusercontent.com/PetyaNacheva/PetyaNacheva.github.io/main/images/Data%20Structures%20Fundamentals%20(with%20Java)%20-%20June%202021%20-%20Certificate.jpeg)**, SoftUni
+- June 2021 **[Data Structures Fundamentasl(Java)](https://softuni.bg/certificates/details/110403/68f60dd3)**, SoftUni
 - June 2021 **[Java OOP](https://raw.githubusercontent.com/PetyaNacheva/PetyaNacheva.github.io/main/images/Java%20OOP%20-%20June%202021%20-%20Certificate.jpeg)**, SoftUni
 - May 2021 **[Java Advanced](https://raw.githubusercontent.com/PetyaNacheva/PetyaNacheva.github.io/main/images/Java%20Advanced%20-%20May%202021%20-%20Certificate.jpeg)**, SoftUni
 - Jan 2021 **[Programming Fundamentals with Java, SoftUni](https://raw.githubusercontent.com/PetyaNacheva/PetyaNacheva.github.io/main/images/Programming%20Fundamentals%20with%20Java%20-%20January%202021%20-%20Certificate.jpeg)**
