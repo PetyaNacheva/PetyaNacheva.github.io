@@ -3,6 +3,7 @@
 - Email: pepisn@abv.bg
 
 ## EXPERIENCE
+- **[Exam JS Advanced](https://github.com/PetyaNacheva/JS-Advanced/tree/main/Exam-23.10.21)
 - **[Exam OOP](https://github.com/PetyaNacheva/SoftUniLabs/tree/master/Java-OOP-Exam%2022.08.21)
 - **[Exam Java Advanced](https://github.com/PetyaNacheva/SoftUniLabs/tree/master/JavaAdvanced-exam-26June2021)
 
