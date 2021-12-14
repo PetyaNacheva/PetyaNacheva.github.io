@@ -16,6 +16,7 @@
   - Sep 2009 - June 2013
 
 ## CERTIFICATION
+- October 2021 **[JS Applications](https://softuni.bg/certificates/details/120816/52a8c83a)**, SoftUni
 - September 2021 **[JS Advanced](https://softuni.bg/certificates/details/114711/f4ba4122)**, SoftUni
 - June 2021 **[Data Structures Fundamentasl(Java)](https://softuni.bg/certificates/details/110403/68f60dd3)**, SoftUni
 - June 2021 **[Java OOP](https://softuni.bg/certificates/details/110643/507ed7fd)**, SoftUni
