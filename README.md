@@ -1,5 +1,5 @@
 ### Intern Java Developer
-- Burgas, Bukgaria
+- Burgas, Bulgaria
 - Email: pepisn@abv.bg
 
 ## EXPERIENCE
@@ -33,10 +33,8 @@
 - Deutch - Base
 
 ## COMPUTER SKILLS
-  - Languages : Java, JavaScript, Data structures
+  - Languages : Java, JavaScript, HTML, MySQL, 
   -	Database : Oracle 9i/8i, Microsoft SQL Server, MySQL
-  -	Web Libraries: CSS3, HTML5, NodeJS, 
-  -	Platforms: Microsoft Windows
+  -	Web Libraries: CSS3, HTML5, 
   -	Servers: NodeJs
-  -	Web Services: XML, SOAP
-  -	Tools: InteliJ, Maven
+  -	Tools: InteliJ, Maven, JUnit, 
